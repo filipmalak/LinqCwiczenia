@@ -1,0 +1,15 @@
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\refint\LinqTutorials.dll
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
+C:\Users\kmala\Downloads\LinqCwiczenia\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
